@@ -13,6 +13,7 @@ La precisión y repetitividad de los brazos robóticos permiten optimizar estos 
 
 ## Instrucciones.
 1. Lo primero que haremos será descargar las posiciones proporcionadas por el profesor. En este archivo encontraremos las ubicaciones de las cajas rojas y de los fusibles, además de la trayectoria que el robot deberá seguir para tomar cada uno de los elementos necesarios para realizar la práctica.
+ 
  ![image](https://github.com/user-attachments/assets/0748df88-803b-4d44-9b4b-4a1a057e0ef9)
 
 2. Una vez que descarguemos el archivo, abriremos un nuevo archivo en Epson RC+, donde importaremos todas las posiciones que descargamos anteriormente. Devido a la gran cantidad de posiciones que tenemos para esta practica no se mostran detalladamente estos puntos.
